@@ -54,6 +54,10 @@
       font-size: 16px;
       margin-top: 0.5rem;
     }
+
+    .form__submit:hover {
+      background-color: #37837f;
+    }
   }
 }
 
@@ -79,6 +83,7 @@
   display: flex;
   color: #ffe81f;
   flex-direction: column;
+  border-radius: 0.5rem;
 }
 .review__author {
   align-self: flex-end;
