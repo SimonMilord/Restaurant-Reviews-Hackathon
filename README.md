@@ -6,10 +6,12 @@ We created this mock restaurant review app with a star wars theme.
 
 I worked with bsnelling9 and stang1207.
 
-To run the program:
-
-npm install all
-in the root directory run: npm run dev
+To run the program run the following in the root directory:
+<br>
+`$npm install all`
+<br>
+<br>
+`$ npm run dev`
 
 PORT of server is 8000
 
